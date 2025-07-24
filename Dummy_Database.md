@@ -1,6 +1,3 @@
-### Copy and Paste the following MYSQL commands to make a dummy database for this Project :
-
-
 create database if not exists onlinebookstore;
 
 use onlinebookstore;
@@ -43,6 +40,6 @@ insert into users values('demo','demo','Demo','User','Demo Home','42502216225','
 
 insert into users values('Admin','Admin','Mr.','Admin','Haldia WB','9584552224521','admin@gmail.com',1);
 
-insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','shashi@gmail.com',2);
+insert into users values('rohan','rohan','Rohan','Gupta','Bihar','1236547089','rohan@gmail.com',2);
 
 commit;
